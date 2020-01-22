@@ -6,9 +6,9 @@ date: 2020-01-22
 comments: false
 ---
 
-# About me
+<img src="{{ site.url }}/{{ site.logo }}" class="zoombtn animated rotateIn">
 
-<img src="{{ site.logo }}" class="zoombtn animated rotateIn">
+# About me
 
 I'm a graphic design student from Spain.
 
