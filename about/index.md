@@ -8,7 +8,7 @@ comments: false
 
 # About me
 
-<img src="/{{ site.logo }}" class="zoombtn animated rotateIn">
+<img src="{{ site.logo }}" class="zoombtn animated rotateIn">
 
 I'm a graphic design student from Spain.
 
