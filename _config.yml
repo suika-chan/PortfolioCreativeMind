@@ -4,7 +4,7 @@ bio:                'Graphic designer from Logroño, Spain'
 description:        "Various projects and designs by Creative Mind"
 reading_time:       false
 words_per_minute:   200
-logo:               'assets/img/logo.png'
+logo:               'assets/img/ico-mod.jpg'
 background:         'assets/img/placeholder-big.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
@@ -37,7 +37,7 @@ disqus_shortname:   Suika
   #ad-client:
   #ad-slot:
 #bing-verify:
-#email:
+email:              suikachan17@gmail.com
 twitter:            Creativemind_17
 #facebook:           Creative Mind
 github-url:         suika-chan
